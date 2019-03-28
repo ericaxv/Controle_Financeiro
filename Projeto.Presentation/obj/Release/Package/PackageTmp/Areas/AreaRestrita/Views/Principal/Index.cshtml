@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/AreaRestrita/Views/Shared/LayoutAreas.cshtml";
+}
+
+
+@section Scripts{
+    <script>
+
+        var appReceber = angular.module('appReceber', []);
+
+        appReceber.controller('cadastroReceber', function ($scope, $http) {
+           
+            $scope.obterUsuario = function () {
+
+                $http.post("/Login/ObterUsuarioAutenticado", {})
+                    .then(function (d) {
+                        $scope.usuario = d.data;
+                        $scope.model.IdUsuario = d.data.IdUsuario;
+                    })
+                    .catch(function (e) {
+                        console.log(e);
+                    })
+
+            };
+
+
+        });
+
+
+
+    </script>
+}
+
+
+    <h4 ng-app="appReceber" ng-controller="cadastroReceber" ng-init="obterUsuario()">Bem Vindo ao Projeto, {{usuario.Nome}}!</h4>
+<br />
+    <h6>Curso Web Developer C#.NET</h6>
+    <p>
+        Tecnologias utilizadas
+    </p>
+    <li>
+        C# Asp.Net Arquitetura MVC,
+    </li>
+    <li>
+        Dapper, EntityFramework
+    </li>
+    <li>
+        Sql Server,
+    </li>
+    <li>
+        Bootstrap, AngularJs
+    </li>
+    

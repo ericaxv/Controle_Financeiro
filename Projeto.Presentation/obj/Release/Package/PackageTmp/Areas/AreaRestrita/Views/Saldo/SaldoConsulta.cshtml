@@ -1,0 +1,182 @@
+﻿
+@{
+    /**/
+
+    ViewBag.Title = "SaldoConsulta";
+    Layout = "~/Areas/AreaRestrita/Views/Shared/LayoutAreas.cshtml";
+}
+
+@section Scripts{
+    <script>
+
+        var appSaldo = angular.module('appSaldo', []);
+
+        appSaldo.controller('consultarSaldo', function ($scope, $http) {
+
+            $scope.model = {};
+
+            $scope.consultarsaldo = function () {
+               
+                $http.post("/AreaRestrita/Saldo/ConsultarSaldo", $scope.model)
+                    .then(function (obj) {
+                        
+                        $scope.result = obj.data;
+                        console.log(obj.data);
+
+                    })
+                    .catch(function (e) {
+
+                        console.log(e);
+                    });
+
+            };
+
+            $scope.consultareceber = function () {
+
+                $http.get("/AreaRestrita/Receita/ConsultarReceber")
+                    .then(function (obj) {
+
+                        $scope.recebidos = obj.data;
+
+                    })
+                    .catch(function (e) {
+
+                        $scope.mensagem = e.data;
+                    });
+
+            };
+
+            $scope.consultaPagar = function () {
+                $http.get("/AreaRestrita/Despesa/ConsultarPagar")
+                    .then(function (obj) {
+                        $scope.pagos = obj.data;
+                    })
+                    .catch(function (e) {
+                        $scope.mensagem = e.data;
+                    });
+
+            };
+     
+
+        });
+
+    </script>
+
+
+}
+
+
+<h4>Consulta de Saldo</h4>
+
+<div ng-app="appSaldo" ng-controller="consultarSaldo">
+
+    <div class="row">
+        <div class="col-md-3">
+
+            <label>Data de início:</label>
+            <input type="date" class="form-control"
+                   ng-model="model.DataInicio" />
+            <br />
+
+            <label>Data de término:</label>
+            <input type="date" class="form-control"
+                   ng-model="model.DataFim" />
+            <br />
+
+            <button class="btn btn-success" ng-click="consultarsaldo()">
+                Executar Consulta
+            </button>
+
+        </div>
+        <div class="col-md-5">
+
+            <div ng-show="result">
+
+                <h4>Saldo de Receitas X Despesas</h4>
+                <br/>
+
+                Total de Receitas: <strong>{{result.TotalReceber | currency : 'R$'}}</strong>
+                <br /><br />
+
+                Total de Despesas: <strong>{{result.TotalPagar | currency : 'R$'}}</strong>
+                <br /><br />
+
+                      <div class="text-center">
+                          <div>
+                              <h5>Saldo final: {{result.Saldo  | currency : 'R$'}}</h5>
+                              <strong>{{result.Saldo >= 0 ? 'Saldo Positivo' : 'Saldo Devedor'}}</strong>
+                          </div>
+                      </div>
+
+            </div>
+
+        </div>
+    </div>
+    <br/>
+    <br/>
+    <div class="row">
+
+        <div class="col-md-5">
+            <table class="table table-bordered table-striped table-hover" ng-init="consultareceber()">
+                <thead>
+                    <tr>
+                        <th>Recebimento</th>
+                        <th>Valor</th>
+                        <th>Data de Entrada</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    <tr ng-repeat="r in recebidos | filter: Pesquisa | orderBy: ordenacao">
+                        <td>{{r.Titulo}}</td>
+                        <td>{{r.Valor | currency: 'R$'}}</td>
+                        <td>{{r.DataCadastro | date: 'dd/MM/yyyy'}}</td>
+                    </tr>
+
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">
+                            Quantidade de Lançamentos: {{(recebidos | filter : Pesquisa).length}}
+                        </td>
+                    </tr>
+                </tfoot>
+
+            </table>
+
+        </div>
+
+        <div class="col-md-5">
+            <table class="table table-bordered table-striped table-hover" ng-init="consultaPagar()">
+                <thead>
+                    <tr>
+                        <th>Pagamento</th>
+                        <th>Valor</th>
+                        <th>Data Entrada</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    <tr ng-repeat="p in pagos | filter: Pesquisa | orderBy: ordenacao">
+
+                        <td>{{p.Titulo}}</td>
+                        <td>{{p.Valor | currency: 'R$'}}</td>
+                        <td>{{p.DataCadastro | date: 'EEE dd/MM/yyyy'}}</td>
+
+                    </tr>
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">
+                            Quantidade de Lançamentos: {{(pagos | filter : Pesquisa).length}}
+                        </td>
+                    </tr>
+                </tfoot>
+
+            </table>
+
+        </div>
+    </div>
+</div>

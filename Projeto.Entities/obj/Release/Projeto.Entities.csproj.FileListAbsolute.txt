@@ -1,0 +1,5 @@
+F:\Projetos\Controle financeiro\Projeto.Entities\bin\Release\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Entities\bin\Release\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Release\Projeto.Entities.csproj.CoreCompileInputs.cache
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Release\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Release\Projeto.Entities.pdb

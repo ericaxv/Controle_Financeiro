@@ -1,0 +1,124 @@
+﻿
+@model Projeto.Presentation.Models.CadastroUsuarioViewModel
+
+@{
+               
+
+         Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Projeto Final</title>
+    <!-- Bootstrap core CSS-->
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom fonts for this template-->
+    <link href="/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <!-- Custom styles for this template-->
+    <link href="/css/sb-admin.css" rel="stylesheet">
+</head>
+<body class="bg-dark">
+    <div class="container">
+        <div class="card card-register mx-auto mt-xl-5 d-md-table">
+            <div class="card-header font-weight-bold text-black-50">Cadastrar Usuário</div>
+            <div class="card-body">
+
+                @using (Html.BeginForm("CadastrarUsuario", "Login", FormMethod.Post))
+                {
+
+                    <form>
+                        <div class="form-group">
+                            <label class="font-weight-bold text-black-50">Nome</label>
+                            @Html.TextBoxFor(model => model.Nome,
+                          new
+                          {
+                              @class = "form-control",
+                              @placeholder = "Informe seu Nome",
+                          })
+                            <span class="text-danger small">
+                                @Html.ValidationMessageFor(model => model.Nome)
+
+                            </span>
+                            <br />
+                            <div class="form-group">
+
+                                <label class="font-weight-bold text-black-50">Email</label>
+                                @Html.TextBoxFor(model => model.Email,
+                               new
+                               {
+                                   @class = "form-control",
+                                   @placeholder = "Informe seu Email",
+                               })
+                                <span class="text-danger small">
+                                    @Html.ValidationMessageFor(model => model.Email)
+                                </span>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-row">
+                                    <div class="col-md-6">
+                                        <div>
+                                            <label class="font-weight-bold text-black-50">Senha</label>
+                                            @Html.PasswordFor(model => model.Senha,
+                                 new
+                                 {
+                                     @class = "form-control",
+                                     @placeholder = "Digite sua Senha",
+                                 })
+                                            <span class="text-danger small">
+                                                @Html.ValidationMessageFor(model => model.Senha)
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div>
+                                            <label class="font-weight-bold text-black-50">Confirme a Senha</label>
+                                            @Html.PasswordFor(model => model.SenhaConfirm,
+                                new
+                                {
+                                    @class = "form-control",
+                                    @placeholder = "Confirme sua Senha",
+                                })
+                                            <span class="text-danger small">
+                                                @Html.ValidationMessageFor(model => model.SenhaConfirm)
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <input type="submit" value="Registrar" class="btn btn-primary col-md-12" />
+                        <br />
+                        <br />
+                        <div class="font-italic">@ViewBag.Mensagem</div>
+                        <br />
+
+                    </form>
+                }
+
+
+                <div class="text-center">
+                    <a class="d-block" href="/Login/Login">Login</a>
+                    <a class="d-block" href="/Home/Index">Voltar para Home</a>
+                    <div class="text-right">
+                        <a class="d-block" href="/Login/NovaSenha">Esqueceu a Senha?</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+</body>
+</html>
+

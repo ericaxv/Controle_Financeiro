@@ -1,0 +1,18 @@
+E:\Projetos\Controle financeiro\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+E:\Projetos\Controle financeiro\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+E:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache
+E:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+E:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Entities\obj\Debug\Projeto.Entities.csprojAssemblyReference.cache

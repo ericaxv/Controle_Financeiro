@@ -1,0 +1,6 @@
+F:\Projetos\Controle financeiro\Projeto.Util\bin\Release\Projeto.Util.dll
+F:\Projetos\Controle financeiro\Projeto.Util\bin\Release\Projeto.Util.pdb
+F:\Projetos\Controle financeiro\Projeto.Util\obj\Release\Projeto.Util.csprojAssemblyReference.cache
+F:\Projetos\Controle financeiro\Projeto.Util\obj\Release\Projeto.Util.csproj.CoreCompileInputs.cache
+F:\Projetos\Controle financeiro\Projeto.Util\obj\Release\Projeto.Util.dll
+F:\Projetos\Controle financeiro\Projeto.Util\obj\Release\Projeto.Util.pdb

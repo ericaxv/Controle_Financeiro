@@ -1,0 +1,16 @@
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Projeto.Repository.dll.config
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Projeto.Repository.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Projeto.Repository.pdb
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Dapper.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\EntityFramework.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\EntityFramework.SqlServer.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\Dapper.xml
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\EntityFramework.xml
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Release\EntityFramework.SqlServer.xml
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Release\Projeto.Repository.csprojAssemblyReference.cache
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Release\Projeto.Repository.csproj.CoreCompileInputs.cache
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Release\Projeto.Repository.csproj.CopyComplete
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Release\Projeto.Repository.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Release\Projeto.Repository.pdb

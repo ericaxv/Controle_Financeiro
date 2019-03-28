@@ -1,0 +1,64 @@
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Dapper.dll
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.dll
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Dapper.xml
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.xml
+E:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+E:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+E:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+E:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Dapper.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\Dapper.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Dapper.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\Dapper.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Repository\obj\Debug\Projeto.Repository.pdb
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Repository.dll.config
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Repository.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Repository.pdb
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Dapper.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\Dapper.xml
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.xml
+F:\Projetos\Controle financeiro\Projeto.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.csprojAssemblyReference.cache
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CoreCompileInputs.cache
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.csproj.CopyComplete
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.dll
+F:\Projetos\Controle financeiro\Projeto.Repository\obj\Debug\Projeto.Repository.pdb

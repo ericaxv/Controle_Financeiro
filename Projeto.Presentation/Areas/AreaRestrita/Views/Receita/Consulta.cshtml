@@ -1,0 +1,227 @@
+﻿
+@{
+    ViewBag.Title = "Consulta";
+    Layout = "~/Areas/AreaRestrita/Views/Shared/LayoutAreas.cshtml";
+}
+
+@section Scripts{
+    <script>
+
+        var appReceber = angular.module('appReceber', []);
+
+        appReceber.controller('consultarReceber', function ($scope, $http) {
+
+            $scope.consultar = function () {
+
+                $http.get("/AreaRestrita/Receita/ConsultarReceber")
+                    .then(function (obj) {
+
+                        $scope.recebidos = obj.data;
+                        
+
+                    })
+                    .catch(function (e) {
+
+                        $scope.mensagem = e.data;
+                    });
+
+            };
+
+            $scope.obter = function (id) {
+                $http.get("/AreaRestrita/Receita/ObterLancamento?idReceber=" + id)
+                    .then(function (obj) {
+                        $scope.receber = obj.data;
+                    })
+                    .catch(function (e) {
+                        $scope.mensagem = e.data;
+                    });
+
+
+            };
+
+            $scope.excluir = function () {
+
+                $http.get("/AreaRestrita/Receita/ExcluirReceber?idReceber=" + $scope.receber.IdReceber)
+                    .then(function (obj) {
+                        $scope.mensagem = obj.data;
+
+                        $scope.consultar();
+                    })
+                    .catch(function (e) {
+
+                        $scope.mensagem = e.data;
+                    });
+            };
+
+            $scope.atualizar = function () {
+
+                $http.post("/AreaRestrita/Receita/AtualizarReceber", $scope.receber)
+                    .then(function (obj) {
+                        $scope.mensagem = obj.data;
+
+                        $scope.consultar();
+                    })
+                    .catch(function (e) {
+                        $scope.mensagem = e.data;
+                    });
+
+            };
+
+
+        });
+
+    </script>
+
+
+}
+
+
+<div class="row">
+    <div class="col-md-6">
+        <h5>Lista de Recebimentos</h5>
+        <br />
+    </div>
+    <div class="col-md-6 text-right">
+        <a href="/AreaRestrita/Receita/Relatorio" class="btn btn-dark">Baixar Relatório</a>
+    </div>
+</div>
+
+<div ng-app="appReceber" ng-controller="consultarReceber">
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="alert alert-info" ng-show="mensagem">
+                <strong style="color:indianred">{{mensagem}}</strong>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-3">
+            <label>Pesquisar</label>
+            <input type="text" class="form-control"
+                   placeholder="Digite Aqui" ng-model="Pesquisa" />
+        </div>
+        <br />
+        <div class="col-md-3">
+            <label>Ordenar por:</label>
+            <select class="form-control" ng-model="ordenacao">
+                <option value="">Escolha uma Opção:</option>
+                <option value="Titulo">Origem da Receita</option>
+                <option value="Valor">Valor</option>
+                <option value="DataCadastro">Data de Entrada</option>
+            </select>
+        </div>
+
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-bordered table-striped table-hover" ng-init="consultar()">
+                <thead>
+                    <tr>
+                        <th>Código do Usuário</th>
+                        <th>Código do Recebimento</th>
+                        <th>Origem da Receita</th>
+                        <th>Valor</th>
+                        <th>Data Entrada</th>                    
+                        <th>Operações</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    <tr ng-repeat="r in recebidos | filter: Pesquisa | orderBy: ordenacao">
+                        <td>{{r.IdUsuario}}</td>
+                        <td>{{r.IdReceber}}</td>
+                        <td>{{r.Titulo}}</td>
+                        <td>{{r.Valor | currency: '' }}</td>
+                        <td>{{r.DataCadastro | date : 'dd-MM-yyyy'}}</td>                
+                        <td>
+                            <button class="btn btn-primary fa fa-edit" data-target="#janelaedicao" data-toggle="modal" ng-click="obter(r.IdReceber)">
+                               
+                            </button>
+                          
+                            <button class="btn btn-danger fa fa-trash" data-target="#janelaexclusao" data-toggle="modal" ng-click="obter(r.IdReceber)">
+                               
+                            </button>
+
+                        </td>
+                    </tr>
+
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="6">
+                            Quantidade de Lançamentos: {{(recebidos | filter : Pesquisa).length}}
+
+                        </td>
+                    </tr>
+                </tfoot>
+
+            </table>
+
+        </div>
+    </div>
+
+
+
+    <!--Janela edição-->
+
+    <div id="janelaedicao" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-info">
+                    <h4 class="text-white-50">Atualizar Dados</h4>
+                </div>
+                <div class="modal-body">
+                    <label>Código do Usuário</label>
+                    <input readonly="readonly" type="text" class="form-control" ng-model="receber.IdUsuario" />
+                    <br />
+                    <label>Código do lançamento:</label>
+                    <input readonly="readonly" type="text" class="form-control" ng-model="receber.IdReceber" />
+                    <br />
+                    <label>Descrição:</label>
+                    <input type="text" class="form-control" ng-model="receber.Titulo" />
+                    <br />
+                    <label>Valor:</label>
+                    <input type="text" class="form-control" ng-model="receber.Valor" />
+                    <br />
+                    <label>Data de Cadastro</label>
+                    <input type="date" class="form-control" ng-model="receber.DataCadastro" />
+                </div>
+                <div class="modal-footer">
+                    <button data-dismiss="modal" class="btn btn-toolbar">Cancelar</button>
+                    <button class="btn btn-info" ng-click="atualizar()" data-dismiss="modal">Atualizar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--janela exclusao-->
+
+    <div id="janelaexclusao" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-danger">
+                    <h4 class="text-white-50">Excluir Dados</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Deseja realmente excluir estes dados?</p>
+                    <br />
+                    Cod. do Lançamento : {{receber.IdReceber}}
+                    <br />
+                    Descrição : {{receber.Titulo}}
+                    <br />
+                    Valor:  {{receber.Valor}}
+                </div>
+                <div class="modal-footer">
+                    <button data-dismiss="modal" class="btn btn-toolbar">Cancelar</button>
+                    <button class="btn btn-danger" ng-click="excluir()" data-dismiss="modal">Excluir Dados</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

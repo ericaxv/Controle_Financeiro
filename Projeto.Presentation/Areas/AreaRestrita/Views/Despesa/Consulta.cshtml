@@ -1,0 +1,232 @@
+﻿
+@{
+    ViewBag.Title = "Consulta";
+    Layout = "~/Areas/AreaRestrita/Views/Shared/LayoutAreas.cshtml";
+}
+
+@section Scripts
+{<script>
+
+    var appPagar = angular.module('appPagar', []);
+
+    appPagar.controller('consultarPagar', function ($scope, $http) {
+      
+        $scope.consultar = function () {
+            $http.get("/AreaRestrita/Despesa/ConsultarPagar")
+                .then(function (obj) {
+                    $scope.pagos = obj.data;
+                })
+                .catch(function (e) {
+                    $scope.mensagem = e.data;
+                });
+            
+        };
+
+        $scope.obter = function (id) {
+            $http.get("/AreaRestrita/Despesa/ObterLancamento?idPagar=" + id)
+                .then(function (obj) {
+                    $scope.pagar = obj.data;
+
+                })
+                .catch(function (e) {
+                    $scope.mensagem = e.data;
+
+                });
+
+        };
+
+        $scope.excluir = function () {
+
+            $http.get("/AreaRestrita/Despesa/ExcluirPagar?idPagar=" + $scope.pagar.IdPagar)
+                .then(function (obj) {
+                    $scope.mensagem = obj.data;
+
+                    $scope.consultar();
+                })
+                .catch(function (e) {
+
+                    $scope.mensagem = e.data;
+
+                });
+            
+        };
+
+        $scope.atualizar = function () {
+
+            $http.post("/AreaRestrita/Despesa/AtualizarPagar", $scope.pagar)
+                .then(function (obj) {
+
+                    $scope.mensagem = obj.data;
+
+                    $scope.consultar();
+
+                })
+                .catch(function (e) {
+                    $scope.mensagem = e.data;
+
+                });
+
+
+        };
+
+        $scope.obterUsuario = function () {
+
+            $http.post("/Login/ObterUsuarioAutenticado", {})
+                .then(function (d) {
+                    $scope.usuario = d.data;
+                    $scope.model.IdUsuario = d.data.IdUsuario;
+                })
+                .catch(function (e) {
+                    console.log(e);
+                })
+        };
+
+    });
+
+
+
+ </script>   
+    
+    }
+
+ <div class="row">
+     <div class="col-md-6">
+         <h5>Lista de Pagamentos</h5>
+         <br />
+     </div>
+     <div class="col-md-6 text-right">
+         <a href="/AreaRestrita/Despesa/Relatorio" class="btn btn-dark">Baixar Relatório</a>
+     </div>
+ </div>
+ <div ng-app="appPagar" ng-controller="consultarPagar">
+
+     <div class="row">
+         <div class="col-md-12">
+             <div class="alert alert-info" ng-show="mensagem">
+                 <strong style="color:indianred">{{mensagem}}</strong>
+             </div>
+         </div>
+     </div>
+     <div class="row">
+         <div class="col-md-3">
+             <label>Pesquisar</label>
+             <input type="text" class="form-control"
+                    placeholder="Digite Aqui" ng-model="Pesquisa" />
+         </div>
+         <div class="col-md-3">
+             <label>Ordenar por:</label>
+             <select class="form-control" ng-model="ordenacao">
+                 <option value="">Escolha uma Opção:</option>
+                 <option value="Titulo">Pagamento</option>
+                 <option value="Valor">Valor</option>
+                 <option value="DataCadastro">Data do Pagamento</option>
+             </select>
+         </div>
+     </div>
+     <br />
+
+     <div class="row">
+         <div class="col-md-12" ng-init="obterUsuario()">
+             <table class="table table-bordered table-striped table-hover" ng-init="consultar()">
+                 <thead>
+                     <tr>
+                         <th>Código do Usuário</th>
+                         <th>Código do Pagamento</th>
+                         <th>Pagamento</th>
+                         <th>Valor</th>
+                         <th>Data do Pagamento</th>
+                         <th>Operações</th>
+                     </tr>
+
+                 </thead>
+                 <tbody>
+                     <tr ng-repeat="p in pagos | filter: Pesquisa | orderBy: ordenacao">
+                         <td>{{p.IdUsuario}}</td>
+                         <td>{{p.IdPagar}}</td>
+                         <td>{{p.Titulo}}</td>
+                         <td>{{p.Valor | currency: ''}}</td>
+                         <td>{{p.DataCadastro | date: 'dd/MM/yyyy'}}</td>
+                         <td>
+                             <button class="btn btn-primary fa fa-edit" data-target="#janelaedicao" data-toggle="modal" ng-click="obter(p.IdPagar)">
+                                
+                             </button>
+                             <button class="btn btn-danger fa fa-trash" data-target="#janelaexclusao" data-toggle="modal" ng-click="obter(p.IdPagar)">
+                                 
+                             </button>
+
+                         </td>
+                     </tr>
+
+                 </tbody>
+                 <tfoot>
+                     <tr>
+                         <td colspan="6">
+                             Quantidade de Lançamentos: {{(pagos | filter : Pesquisa).length}}
+                         </td>
+                     </tr>
+                 </tfoot>
+
+             </table>
+
+         </div>
+     </div>
+
+     <!--janela edicao-->
+
+     <div id="janelaedicao" class="modal fade">
+         <div class="modal-dialog">
+             <div class="modal-content">
+                 <div class="modal-header bg-info">
+                     <h4 class="text-white-50">Atualizar Dados</h4>
+                 </div>
+                 <div class="modal-body">
+                     <label>Código do Usuário</label>
+                     <input readonly="readonly" type="text" class="form-control" ng-model="pagar.IdUsuario" />
+                     <br />
+                     <label>Código do lançamento:</label>
+                     <input readonly="readonly" type="text" class="form-control" ng-model="pagar.IdPagar" />
+                     <br />
+                     <label>Descrição:</label>
+                     <input type="text" class="form-control" ng-model="pagar.Titulo" />
+                     <br />
+                     <label>Valor:</label>
+                     <input type="text" class="form-control" ng-model="pagar.Valor" />
+                     <br />
+                     <label>Data de Cadastro</label>
+                     <input type="date" class="form-control" ng-model="pagar.DataCadastro" />
+                 </div>
+                 <div class="modal-footer">
+                     <button data-dismiss="modal" class="btn btn-toolbar">Cancelar</button>
+                     <button class="btn btn-info" ng-click="atualizar()" data-dismiss="modal">Atualizar</button>
+                 </div>
+             </div>
+         </div>
+     </div>
+
+     <!--janela exclusao-->
+
+     <div id="janelaexclusao" class="modal fade">
+         <div class="modal-dialog">
+             <div class="modal-content">
+                 <div class="modal-header bg-danger">
+                     <h4 class="text-white-50">Excluir Dados</h4>
+                 </div>
+                 <div class="modal-body">
+                     <p>Deseja realmente excluir estes dados?</p>
+                     <br />
+                     Cod. do Lançamento : {{pagar.IdPagar}}
+                     <br />
+                     Descrição : {{pagar.Titulo}}
+                     <br />
+                     Valor:  {{pagar.Valor}}
+                 </div>
+                 <div class="modal-footer">
+                     <button data-dismiss="modal" class="btn btn-toolbar">Cancelar</button>
+                     <button class="btn btn-danger" ng-click="excluir()" data-dismiss="modal">Excluir Dados</button>
+                 </div>
+             </div>
+         </div>
+     </div>
+
+
+ </div>

@@ -1,0 +1,460 @@
+c:\users\lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.IO.Compression.dll
+c:\users\lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Presentation.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Presentation.pdb
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csc.exe
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csc.exe.config
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csc.rsp
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csi.exe
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csi.exe.config
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csi.rsp
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Console.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.Compression.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.Pipes.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.AccessControl.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Claims.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Threading.Thread.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.ValueTuple.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.XPath.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\vbc.exe
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\vbc.exe.config
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\vbc.rsp
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\itextsharp.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Entities.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Repository.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Util.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Helpers.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Mvc.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Razor.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Dapper.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Entities.pdb
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Repository.pdb
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Repository.dll.config
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Util.pdb
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\itextsharp.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Razor.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Helpers.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Mvc.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\Dapper.xml
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojAssemblyReference.cache
+E:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CoreCompileInputs.cache
+E:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CopyComplete
+E:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+E:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Presentation.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Presentation.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\csc.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\csc.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\csc.rsp
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\csi.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\csi.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\csi.rsp
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Console.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\vbc.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\vbc.rsp
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\EntityFramework.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\itextsharp.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Entities.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Repository.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Util.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Helpers.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Mvc.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Razor.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Webpages.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Dapper.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Entities.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Repository.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Repository.dll.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Projeto.Util.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\EntityFramework.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\itextsharp.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Razor.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Webpages.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Helpers.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\System.Web.Mvc.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\Dapper.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Presentation.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Presentation.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\csc.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\csc.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\csc.rsp
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\csi.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\csi.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\csi.rsp
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Console.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\vbc.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\vbc.rsp
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\EntityFramework.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\itextsharp.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Entities.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Repository.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Util.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Helpers.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Mvc.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Razor.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Webpages.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Dapper.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Entities.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Repository.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Repository.dll.config
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Projeto.Util.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\EntityFramework.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\itextsharp.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Razor.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Webpages.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Helpers.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\System.Web.Mvc.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\Dapper.xml
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb
+C:\Users\Coti-Maq05\Desktop\erica\Projeto\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Presentation.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Presentation.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\csc.exe
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\csc.exe.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\csc.rsp
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\csi.exe
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\csi.exe.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\csi.rsp
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Console.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\vbc.exe
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\vbc.exe.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\vbc.rsp
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\EntityFramework.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\itextsharp.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Entities.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Repository.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Util.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Helpers.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Mvc.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Razor.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Webpages.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Dapper.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Entities.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Repository.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Repository.dll.config
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Projeto.Util.pdb
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\EntityFramework.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\itextsharp.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Razor.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Webpages.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Helpers.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\System.Web.Mvc.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\Dapper.xml
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojAssemblyReference.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CopyComplete
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+C:\Users\Lindalva\source\repos\GerenciadorFinanceiroProjfinaldeCurso\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Presentation.dll.config
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Presentation.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Presentation.pdb
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csc.exe
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csc.exe.config
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csc.rsp
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csi.exe
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csi.exe.config
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\csi.rsp
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.AppContext.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Collections.Immutable.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Console.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Diagnostics.Process.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.Compression.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.IO.Pipes.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.AccessControl.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Claims.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Threading.Thread.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.ValueTuple.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.XPath.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\vbc.exe
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\vbc.exe.config
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\vbc.rsp
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\roslyn\VBCSCompiler.exe.config
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.SqlServer.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\itextsharp.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Microsoft.Web.Infrastructure.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Entities.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Repository.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Util.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Helpers.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Mvc.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Razor.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Deployment.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Razor.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Dapper.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Entities.pdb
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Repository.pdb
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Repository.dll.config
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Projeto.Util.pdb
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\EntityFramework.SqlServer.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\itextsharp.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Razor.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Deployment.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Webpages.Razor.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Helpers.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\System.Web.Mvc.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\Dapper.xml
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Razor.resources.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Webpages.resources.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Helpers.resources.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\bin\pt-br\System.Web.Mvc.resources.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.csprojAssemblyReference.cache
+F:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CoreCompileInputs.cache
+F:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.csproj.CopyComplete
+F:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.dll
+F:\Projetos\Controle financeiro\Projeto.Presentation\obj\Debug\Projeto.Presentation.pdb

@@ -1,0 +1,126 @@
+﻿
+@{
+    ViewBag.Title = "Cadastro";
+    Layout = "~/Areas/AreaRestrita/Views/Shared/LayoutAreas.cshtml";
+}
+
+@section Scripts{
+    <script>
+
+        var appPagar = angular.module('appPagar', []);        
+
+         appPagar.controller('cadastroPagar', function ($scope, $http) {
+             $scope.model = {
+                IdUsuario: '',
+                Titulo: '',
+                Valor: '',
+                DataCadastro: '',
+             };
+
+             $scope.obterUsuario = function () {
+
+                 $http.post("/Login/ObterUsuarioAutenticado", {})
+                     .then(function (d) {
+                         $scope.usuario = d.data;
+                         $scope.model.IdUsuario = d.data.IdUsuario;
+                     })
+                     .catch(function (e) {
+                         console.log(e);
+                     })
+             };
+
+            $scope.cadastrar = function () {
+                $scope.mensagem = "Processando cadastramento...";
+
+                $http.post("/AreaRestrita/Despesa/CadastrarPagar", $scope.model)
+                    .then(function (obj) {
+                        $scope.mensagem = obj.data;
+                   
+                        $scope.model.Titulo = "";
+                        $scope.model.Valor = "";
+                        $scope.model.DataCadastro = "";
+
+                        $scope.ErroIdUsuario = "";
+                        $scope.ErroTitulo = "";
+                        $scope.ErroValor = "";
+                        $scope.ErroDataCadastro = "";
+
+                    })
+                    .catch(function (e) {
+                        if (e.status == 400) {
+                            $scope.ErroIdUsuario = e.data.ErroIdUsuario;
+                            $scope.ErroTitulo = e.data.ErroTitulo;
+                            $scope.ErroValor = e.data.ErroValor;
+                            $scope.ErroDataCadastro = e.data.ErroDataCadastro;
+
+                            $scope.mensagem = "";
+                        }
+                        else {
+
+                            $scope.mensagem = "Erro: " + e.data;
+                        }
+                    });
+
+             };
+          
+
+        });
+
+
+
+
+
+    </script>
+}
+
+<div ng-app="appPagar" ng-controller="cadastroPagar" ng-init="obterUsuario()">
+
+    <h5 style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">Cadastrar Pagamentos</h5>
+    <br />
+    <div class="row">
+        <div class="col-sm-4" style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
+
+            <label class="font-weight-bold">Cód.Usuário</label>
+            <input type="text" class="form-control" ng-model="model.IdUsuario" readonly />
+            <div>
+                <strong class="text-danger">{{ErroIdUsuario}}</strong>
+            </div>
+            <br />
+
+            <label class="font-weight-bold">Pagamento</label>
+            <input type="text" class="form-control" placeholder="Informe o origem do pagamento" ng-model="model.Titulo" />
+
+            <div>
+                <strong class="text-danger">{{ErroTitulo}}</strong>
+            </div>
+            <br />
+
+            <label class="font-weight-bold">Valor</label>
+            <input type="number" class="form-control" placeholder="Informe o valor da receita" ng-model="model.Valor" />
+
+            <div>
+                <strong class="text-danger">{{ErroValor}}</strong>
+            </div>
+            <br />
+
+            <label class="font-weight-bold">Data do Pagamento</label>
+            <input type="date" class="form-control" ng-model="model.DataCadastro" max="@DateTime.Now.ToString("yyyy-MM-dd")" />
+
+            <div>
+                <strong class="text-danger">{{ErroDataCadastro}}</strong>
+            </div>
+            <br />
+
+            <button class="btn btn-primary" ng-click="cadastrar()">
+                Adicionar
+            </button>
+            <br />
+            <br />
+            <strong>{{mensagem}}</strong>
+            <br />
+
+        </div>
+    </div>
+</div>
+
+
